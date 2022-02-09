@@ -1,4 +1,4 @@
-# Hi there, I'm [Aadarsh][portfolio] - 👋 
+# Hi there, I'm [Aadarsh Rawat][portfolio] - 👋 
 
 
 
