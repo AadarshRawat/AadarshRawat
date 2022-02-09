@@ -5,7 +5,7 @@
 ## I'm a  a Computer Science student of KIIT working primarily with Python,Django,CSS and HTML!
 
 - 💻 I’m currently learning everything at my own pace ✌️
-- 👯 I’m looking to collaborate with other content creators
+- 🤝I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Learn more about webDev
 - ⚡ Hobbies Include: Sports,Movies,Music
 - 💙 #KTBFFH#COYB 
