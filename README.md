@@ -1,12 +1,11 @@
-# Hi there, I'm Aadarsh[portfolio] - 👋 
+# Hi there, I'm [Aadarsh Rawat][portfolio] - 👋 
 
 
 
 ## I'm a  a Computer Science student of KIIT working primarily with Python,Django,CSS and HTML!
 
-- 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
 - 💻 I’m currently learning everything at my own pace ✌️
-- 👯 I’m looking to collaborate with other content creators
+- 🤝I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Learn more about webDev
 - ⚡ Hobbies Include: Sports,Movies,Music
 - 💙 #KTBFFH#COYB 
