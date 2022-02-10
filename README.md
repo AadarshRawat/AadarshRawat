@@ -1,4 +1,4 @@
-# Hi there, I'm [Aadarsh Rawat] - 👋 
+# Hi there, I'm Aadarsh Rawat - 👋 
 
 
 
