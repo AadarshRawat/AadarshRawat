@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 # Hi there, I'm [Aadarsh Rawat][portfolio] -  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+=======
+# Hi there, I'm Aadarsh Rawat - 👋 
+>>>>>>> 8a156e5a9fb420385ba9d9a2ee4229ce0973d773
 
 
 
@@ -12,7 +16,14 @@
 - 💙 #KTBFFH#COYB 
 ### Connect with me:
 
+<<<<<<< HEAD
 ### 🔗 Links
+=======
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://aadarshportfolio2022.netlify.app)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+>>>>>>> 8a156e5a9fb420385ba9d9a2ee4229ce0973d773
 
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https:aadarshportfolio2022.netlify.app)
