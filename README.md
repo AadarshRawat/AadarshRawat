@@ -39,6 +39,6 @@
 
 
 
-[portfolio]: aadarshportfolio2022.netlify.app
+[portfolio]:aadarshportfolio2022.netlify.app
 [instagram]:https://www.instagram.com/__aadarsh.r__/
 [linkedin]:https://www.linkedin.com/in/aadarshrawat-2020
