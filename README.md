@@ -1,5 +1,5 @@
 
-# Hi there, I'm Aadarsh Rawat - 👋 
+# Hi there, I'm Aadarsh Rawat - <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
 
 
 
@@ -17,7 +17,6 @@
 
 
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https:aadarshportfolio2022.netlify.app)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aadarshrawat-2020)
 
 ### Languages and Tools:
@@ -39,6 +38,6 @@
 
 
 
-[portfolio]: aadarshportfolio2022.netlify.app
+[portfolio]:aadarshportfolio2022.netlify.app
 [instagram]:https://www.instagram.com/__aadarsh.r__/
 [linkedin]:https://www.linkedin.com/in/aadarshrawat-2020
