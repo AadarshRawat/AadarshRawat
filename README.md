@@ -1,6 +1,8 @@
 
 # Hi there, I'm Aadarsh Rawat - <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
 
+<img align="right" alt="PC GIF" src="" width="400" />
+
 
 
 ## I'm a  a Computer Science student of KIIT working primarily with Python,Django,CSS and HTML!
@@ -38,6 +40,6 @@
 
 
 
-[portfolio]:aadarshportfolio2022.netlify.app
+
 [instagram]:https://www.instagram.com/__aadarsh.r__/
 [linkedin]:https://www.linkedin.com/in/aadarshrawat-2020
