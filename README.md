@@ -22,7 +22,7 @@
 <img align="left" alt="python" width="26px" src="https://github.com/AadarshRawat/AadarshRawat/blob/master/assests/python.png" style="padding-right:10px;" />
 <img align="left" alt="django" width="26px" src="https://github.com/AadarshRawat/AadarshRawat/blob/master/assests/Daco_2081416.png" style="padding-right:10px;" />
 <img align="left" alt="opencv" width="26px" src="https://github.com/AadarshRawat/AadarshRawat/blob/master/assests/opencv-icon.png" style="padding-right:10px;" />
-<img align="left" alt="rest" width="26px" src="https://github.com/AadarshRawat/AadarshRawat/blob/master/assests/rest-api.png" style="padding-right:10px;" />
+<img align="left" alt="rest" width="26px" src="https://github.com/AadarshRawat/AadarshRawat/blob/master/assests/icons8-rest-api-80.png" style="padding-right:10px;" />
 
 
 
