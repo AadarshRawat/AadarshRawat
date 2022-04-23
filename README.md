@@ -21,6 +21,8 @@
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="python" width="26px" src="https://github.com/AadarshRawat/AadarshRawat/blob/master/assests/python.png" style="padding-right:10px;" />
 <img align="left" alt="django" width="26px" src="https://github.com/AadarshRawat/AadarshRawat/blob/master/assests/Daco_2081416.png" style="padding-right:10px;" />
+<img align="left" alt="opencv" width="26px" src="https://github.com/AadarshRawat/AadarshRawat/blob/master/assests/opencv-icon.png" style="padding-right:10px;" />
+<img align="left" alt="rest" width="26px" src="https://github.com/AadarshRawat/AadarshRawat/blob/master/assests/rest-api.png" style="padding-right:10px;" />
 
 
 
