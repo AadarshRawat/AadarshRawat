@@ -25,6 +25,7 @@
 <img align="left" alt="rest" width="26px" src="https://github.com/AadarshRawat/AadarshRawat/blob/master/assests/icons8-rest-api-80.png" style="padding-right:10px;" />
 <img align="left" alt="numpy" width="26px" src="https://github.com/AadarshRawat/AadarshRawat/blob/master/assests/numpy.png" style="padding-right:10px;" />
 <img align="left" alt="pandas" width="45px" src="https://github.com/AadarshRawat/AadarshRawat/blob/master/assests/Pandas.png" style="padding-right:10px;" />
+<img align="left" alt="pandas" width="45px" src="https://github.com/AadarshRawat/AadarshRawat/blob/master/database.png" style="padding-right:10px;" />
 
 <br><br>
 
