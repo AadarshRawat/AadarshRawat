@@ -1,5 +1,5 @@
 
-# Hi there, I'm Aadarsh Rawat - <img src="https://github.com/AadarshRawat/AadarshRawat/blob/master/assests/Hi.gif" width="50px"> 
+# Hi there, I'm Aadarsh Rawat - <img src="https://github.com/AadarshRawat/AadarshRawat/blob/master/assests/Hi.gif" width="10px"> 
 
 <img align="right" alt="PC GIF" src="https://github.com/AadarshRawat/AadarshRawat/blob/master/assests/giphy%20(2).gif" width="400" />
 
