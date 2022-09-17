@@ -5,7 +5,7 @@
 
 
 
-## I am a 3rd Year undergraduate from KIIT working primarily with Python,Django,CSS and HTML!
+## I am a 4th Year undergraduate from KIIT working primarily with Python,Django,CSS and HTML!
 
 - <img alt="dev GIF" src="https://github.com/AadarshRawat/AadarshRawat/blob/master/assests/Developer.gif" width="45" /> I’m currently learning everything at my own pace ✌️
 - <img alt="dev2 GIF" src="https://github.com/AadarshRawat/AadarshRawat/blob/master/assests/improve.gif" width="40" /> I just want a platform to grow and excel. 
